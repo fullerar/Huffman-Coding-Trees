@@ -1,5 +1,5 @@
 # Huffman-Coding-Trees
-A simple take on Huffman Coding Trees. 
+A simple take on Huffman Coding Trees using Ruby.  
 
 Algorithm/concept developed by David A. Huffman.
 https://en.wikipedia.org/wiki/David_A._Huffman
